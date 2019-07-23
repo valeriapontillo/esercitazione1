@@ -1,4 +1,4 @@
-# progettoCompilatori
+# Esercitazione 1
 
 Progetto per il corso di Compilatori presso Università degli Studi di Salerno a.a. 2018/2019 
 
